@@ -118,5 +118,4 @@ end
 end
 
 
-wtf_pyramid
 
